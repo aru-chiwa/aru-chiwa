@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est [ton nom]
+# 👋 Konichiwaa
 
 ## 🎨 Pixel art du jour
 
