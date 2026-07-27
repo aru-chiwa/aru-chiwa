@@ -1,4 +1,4 @@
-# 👋 Konichiwaa
+#Konichiwaa
 
 ## 🎨 Pixel art du jour
 
